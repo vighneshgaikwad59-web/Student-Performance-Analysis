@@ -98,13 +98,6 @@ Through this project, I learned how to:
 * Save processed data
 * Use Git and GitHub for project management
 
-## 👨‍💻 Author
 
-**Vighnesh Anand Gaikwad**
-
-MSc Bioinformatics Student
-Interested in **Data Analytics, Python, and Bioinformatics**
-
-## 📄 License
 
 This project is created for learning and educational purposes.
