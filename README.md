@@ -1,7 +1,5 @@
 # 📊 Student Performance Analysis
 
-A simple **Python Data Analysis project** that analyzes student marks and generates useful performance insights.
-
 ## 📌 Project Overview
 
 This project takes student marks from a CSV file and uses **Python, Pandas, and Matplotlib** to analyze their performance.
