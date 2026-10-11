@@ -85,19 +85,4 @@ The program provides:
 * Grade distribution
 * Performance chart
 
-## 🎯 Learning Outcomes
-
-Through this project, I learned how to:
-
-* Work with CSV files
-* Use Pandas DataFrames
-* Perform basic data analysis
-* Create new calculated columns
-* Use conditional statements
-* Create data visualizations
-* Save processed data
-* Use Git and GitHub for project management
-
-
-
-This project is created for learning and educational purposes.
+ and educational purposes.
