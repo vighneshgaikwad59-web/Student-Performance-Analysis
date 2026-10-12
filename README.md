@@ -82,5 +82,3 @@ The program provides:
 * Subject-wise average marks
 * Grade distribution
 * Performance chart
-
- and educational purposes.
